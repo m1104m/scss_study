@@ -1,0 +1,18 @@
+/*
+下記のCSSと同じになるようにSCSSを書いてみましょう
+*/
+#point {
+  background: yellow;
+}
+
+#point dl dt {
+  font-size: 24px;
+}
+
+#point dl dd {
+  font-size: 16px;
+}
+
+#point dl dd img {
+  margin: 10px 0;
+}

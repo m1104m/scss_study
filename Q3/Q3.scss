@@ -1,0 +1,14 @@
+@import "_const";
+@import "_mixin";
+
+#list a {
+  @include btn1;
+}
+
+/*
+_const.scssで設定している変数
+-------------------------------
+$mainColor
+$subColorLB
+$subColorGY
+*/

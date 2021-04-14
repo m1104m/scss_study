@@ -1,0 +1,27 @@
+/*
+下記のCSSと同じになるようにSCSSを書いてみましょう
+*/
+#banner {
+  width: 650px;
+}
+
+#banner #banner-title {
+  font-size: 15px;
+}
+
+#banner #banner-area {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#banner #banner-area li {
+  margin: 10px;
+}
+
+#banner #banner-area li a {
+  text-decoration: underline;
+}
+
+#banner #banner-area li a:hover {
+  opacity: 0.7;
+}
